@@ -31,7 +31,6 @@ The algorithms used are:
 * Expectation Maximization
 * K-means
 * Hierarchical 
-* Latent Dirichlet Allocation
 
 The code has being broken into different cells to represent different steps.
 Run each cell separately
