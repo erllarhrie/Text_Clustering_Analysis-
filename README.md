@@ -9,6 +9,7 @@ algorithm by trying to predict which book a group of words come from.
 This code was written in Python 3.7 and requires
 1. Python Integrated development Environment
 2. The source code "Text_Clustering_Kmeans.ipynb"
+3. Google colab for implementation of the clustering analysis
 
 Libraries needed for this code
 1.  nltk
@@ -26,5 +27,17 @@ Libraries needed for this code
 13. Seaborn
 14. Collections
 
+The algorithms used are:
+* Expectation Maximization
+* K-means
+* Hierarchical 
+* Latent Dirichlet Allocation
+
 The code has being broken into different cells to represent different steps.
 Run each cell separately
+
+Contributors:
+* Yusri Al-Sanaani
+* Hetvi Soni 
+* Tavleen Kour
+* Immanuella Iyawe
